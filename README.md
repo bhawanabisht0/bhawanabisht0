@@ -44,12 +44,12 @@ flowchart TD
 ---
 <div align="center">
   <!-- GitHub Stats (Updated URL) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=piyushsuthar07&show_icons=true&theme=radical" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bhawanabisht0&show_icons=true&theme=radical" height="160" />
   <!-- GitHub Streak (Updated URL) -->
-  <img src="https://streak-stats.demolab.com/?user=piyushsuthar07&theme=radical" height="160" />
+  <img src="https://streak-stats.demolab.com/?user=bhawanabisht0&theme=radical" height="160" />
   <br>
   <!-- Profile Summary -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=piyushsuthar07&theme=monokai" height="200" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhawanabisht08&theme=monokai" height="200" />
 </div>
 
 
