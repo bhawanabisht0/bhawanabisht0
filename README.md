@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=00F5FF&vCenter=true&width=900&lines=Data+Science+Learner;Python+%7C+SQL+%7C+Power+BI;Aspiring+Data+Analyst;Welcome+to+My+Tech+Space!" alt="typing" />
 </p>
 
-<h1 align="center">Hi, I'm Bhawana Bisht! 👋</h1>
+<h1 align="center">Hi, I'm BHawana Bisht! 👋</h1>
 
 <p align="center" style="font-size:1.05em">
   <b>🚀 Data Science</b> &nbsp;|&nbsp; <b>📈 Aspiring Data Analyst</b> &nbsp;|&nbsp; <b>🧠 Python & Power BI</b>
@@ -14,7 +14,7 @@
 
 ## 🧬 My Tech Story: Automating + Innovating Across Stacks
 
-mermaid
+```mermaid
 flowchart TD
     Start{{Learn Basics}} --> Python[Python for Data]
     Python --> SQL[SQL & Databases]
@@ -22,13 +22,13 @@ flowchart TD
     EDA --> ML[Basic Machine Learning]
     ML --> BI[Dashboards in Power BI]
     BI --> Projects[End-to-End Projects]
+```
 
 
-
-- *Data Science Mindset*: I love turning raw, messy data into insights using Python, Pandas, NumPy, and ML models.
-- *ML Explorer*: Always experimenting with algorithms — classification, clustering, forecasting — and learning how to improve real-world predictions.
-- *Analytical Thinking*: I break down complex problems into simple, logical, and workable solutions.
-- *Curiosity Driven*: If data exists, I want to analyze it. If patterns exist, I want to find them.
+- **Data Science Mindset**: I love turning raw, messy data into insights using Python, Pandas, NumPy, and ML models.
+- **ML Explorer**: Always experimenting with algorithms — classification, clustering, forecasting — and learning how to improve real-world predictions.
+- **Analytical Thinking**: I break down complex problems into simple, logical, and workable solutions.
+- **Curiosity Driven**: If data exists, I want to analyze it. If patterns exist, I want to find them.
 
 ---
 
@@ -49,7 +49,7 @@ flowchart TD
   <img src="https://streak-stats.demolab.com/?user=bhawanabisht0&theme=radical" height="160" />
   <br>
   <!-- Profile Summary -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhawanabisht08&theme=monokai" height="200" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhawanabisht0&theme=monokai" height="200" />
 </div>
 
 
@@ -59,7 +59,7 @@ flowchart TD
 
 <div align="center">
   <a href="https://www.linkedin.com/in/bhawana-bisht-b03b05291/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:bishtbhawana005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+  <a href="mailto:bishthawana005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
 </div>
 
 ---
@@ -75,5 +75,5 @@ flowchart TD
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczJyclF1b2RuMGRyY3MzYTFxeHc0YWNvb3VlbwktOdmlmc3Cobz7d4g/giphy.gif" height="100" alt="Confetti animation">
   <br>
-  <sub><i>Modern Analyst + DataScience by Bhawana Bisht</i></sub>
+  <sub><i>Modern Analyst + DataScience by BHawana BIsht</i></sub>
 </div>
